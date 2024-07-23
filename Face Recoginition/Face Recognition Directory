@@ -1,0 +1,12 @@
+face-recoginition-system/
+│
+├── src/
+│   └── face_recoginition.py
+│
+├── requirements.txt
+│
+├── output_image.jpg
+|
+├── test_image.jpg
+|
+└── README.md
