@@ -1,0 +1,12 @@
+My_Projects/
+├── Face_Recognition/
+│   ├── face_recognition.py
+│   ├── requirements.txt
+│   ├── test_image.jpg
+│   ├── output_image.jpg
+│   └── README.md
+└── Music_Recommendation/
+    ├── music_recommendation.py
+    ├── requirements.txt
+    ├── spotify_dataset.csv
+    └── README.md

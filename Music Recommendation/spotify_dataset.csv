@@ -1,0 +1,13 @@
+user_id,song_id,play_count
+user_1,song_1,5
+user_1,song_2,3
+user_1,song_3,2
+user_2,song_1,4
+user_2,song_3,5
+user_2,song_4,1
+user_3,song_1,2
+user_3,song_2,2
+user_3,song_4,4
+user_4,song_2,4
+user_4,song_3,4
+user_4,song_4,5

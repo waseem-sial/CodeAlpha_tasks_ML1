@@ -1,0 +1,5 @@
+Requirements
+
+- Python 3.x
+- pandas
+- scikit-learn
