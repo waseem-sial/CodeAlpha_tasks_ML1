@@ -1,0 +1,11 @@
+music-recommendation-system/
+│
+├── src/
+│   └── music_recommendation.py
+│
+├── requirements.txt
+|
+├── data/
+│   └── spotify_dataset.csv
+└── README.md
+
