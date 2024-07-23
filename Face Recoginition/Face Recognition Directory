@@ -1,7 +1,7 @@
-face-recoginition-system/
+face-recognition-system/
 │
 ├── src/
-│   └── face_recoginition.py
+│   └── face_recognition.py
 │
 ├── requirements.txt
 │
