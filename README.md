@@ -1,4 +1,4 @@
-# CodeAlpha_Tasks
+# CodeAlpha_Tasks_ML1
 
 This repository contains two machine learning projects:
 
