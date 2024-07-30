@@ -106,4 +106,4 @@ For any questions or issues, please contact:
 
 - **Email:** [sial.machinelearning@gmail.com](sial.machinelearning@gmail.com) <br>
 
-- **GitHub Repository:**[https://github.com/waseem-sial/CodeAlpha_tasks](https://github.com/waseem-sial/CodeAlpha_tasks_ML1.git) <br>
+- **GitHub Repository:**[https://github.com/waseem-sial/CodeAlpha_tasks_ML1](https://github.com/waseem-sial/CodeAlpha_tasks_ML1.git) <br>
