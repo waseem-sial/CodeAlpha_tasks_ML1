@@ -33,7 +33,7 @@ This project detects and recognizes faces in images using OpenCV and TensorFlow.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/waseem-sial/CodeAlpha_tasks.git
+   https://github.com/waseem-sial/CodeAlpha_tasks_ML1.git
 
 2. **Navigate to the Project Directory:**
 
@@ -73,7 +73,7 @@ This project provides personalized song recommendations based on user listening 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/waseem-sial/CodeAlpha_tasks.git
+    https://github.com/waseem-sial/CodeAlpha_tasks_ML1.git
 2. **Navigate to the Project Directory:**
 
     ```bash
